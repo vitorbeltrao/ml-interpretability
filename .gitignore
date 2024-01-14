@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 /datasets
-.html
+SWEETVIZ_REPORT.html
